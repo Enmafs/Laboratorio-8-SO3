@@ -70,3 +70,5 @@ volumes:
 sudo docker compose up -d
 
 sudo docker compose ps
+
+http://ip_server/wp-admin o wp-login.php
